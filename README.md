@@ -4,5 +4,6 @@ foi utilizado banco de dados nao relacional no node-red e cloudant
 
 
 
-WhatsApp Video 2024-02-09 at 11.04.09
+
+
 

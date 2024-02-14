@@ -7,3 +7,10 @@ foi utilizado banco de dados nao relacional no node-red e cloudant
 
 
 
+
+https://github.com/felipexn/projeto-lar-ordem/assets/108966595/7ef7ced0-2e88-4c1b-a6ac-297f0bacdc67
+
+
+
+
+
